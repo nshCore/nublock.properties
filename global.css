@@ -29,8 +29,10 @@ body {
 
   /* Gaps */
   --gap-17xs: -4px;
-  --gap-0: 0px;
+  --gap-2xl: 21px;
   --gap-xs: 12px;
+  --gap-9xs: 4px;
+  --gap-5xs: 8px;
 
   /* Paddings */
   --padding-41xl: 60px;
